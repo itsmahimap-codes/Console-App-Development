@@ -1,0 +1,5 @@
+Problem Statement
+
+Scheduling court hearings can be challenging since it often requires considerable time and is subject to errors. The process has many aspects that need to be taken into account in order to organize hearings efficiently. Specifically, judges, lawyers, and courtrooms must be assigned to particular cases along with corresponding dates and times when avoiding any overlaps for the same judge or courtroom.
+
+Particularly, the Proposed System should help in simplifying the process of scheduling and managing the court hearing process and managing the participants, cases, and details related to hearings in order to ensure a high level of efficiency and avoid overlapping of the hearings. The Court Hearing Scheduling System will enable users to create and view scheduled court hearings, set up specific lawyers, judges, and courtroom numbers for each hearing, reschedule or cancel hearings, and check for any overlaps in order to maintain a highly organized and effective system.
